@@ -6,41 +6,41 @@ import delay from './delay';
 const courses = [
   {
     id: "react-flux-building-applications",
-    title: "Building Applications in React and Flux",
-    watchHref: "http://www.pluralsight.com/courses/react-flux-building-applications",
-    authorId: "cory-house",
+    title: "Lets use react",
+    watchHref: "http://www.google.com",
+    authorId: "cagdas-essiz",
     length: "5:08",
     category: "JavaScript"
   },
   {
     id: "clean-code",
-    title: "Clean Code: Writing Code for Humans",
-    watchHref: "http://www.pluralsight.com/courses/writing-clean-code-humans",
-    authorId: "cory-house",
+    title: "Redux and more...",
+    watchHref: "http://www.google.com",
+    authorId: "cagdas-essiz",
     length: "3:10",
     category: "Software Practices"
   },
   {
     id: "architecture",
-    title: "Architecting Applications for the Real World",
-    watchHref: "http://www.pluralsight.com/courses/architecting-applications-dotnet",
-    authorId: "cory-house",
+    title: "ES6 is fun",
+    watchHref: "http://www.google.com",
+    authorId: "cagdas-essiz",
     length: "2:52",
     category: "Software Architecture"
   },
   {
     id: "career-reboot-for-developer-mind",
-    title: "Becoming an Outlier: Reprogramming the Developer Mind",
-    watchHref: "http://www.pluralsight.com/courses/career-reboot-for-developer-mind",
-    authorId: "cory-house",
+    title: "Test your code",
+    watchHref: "http://www.google.com",
+    authorId: "cagdas-essiz",
     length: "2:30",
     category: "Career"
   },
   {
     id: "web-components-shadow-dom",
-    title: "Web Component Fundamentals",
-    watchHref: "http://www.pluralsight.com/courses/web-components-shadow-dom",
-    authorId: "cory-house",
+    title: "More testing",
+    watchHref: "http://www.google.com",
+    authorId: "cagdas-essiz",
     length: "5:10",
     category: "HTML5"
   }
